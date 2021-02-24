@@ -8,7 +8,7 @@
 
 ## Usage
 Kaggle(FER-2013)
-[text](https://datarepository.wolframcloud.com/resources/FER-2013)
+[リンク先](https://datarepository.wolframcloud.com/resources/FER-2013)
 のファイルをダウンロードして、csvファイルから画像ファイルに変換後、モデル構築、学習、予想させる。
 画像変換はgene\_record.py、画像読み込みはread\_data.pyから行うことができる
 
